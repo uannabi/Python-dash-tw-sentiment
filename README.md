@@ -17,7 +17,7 @@ Installation and Setup
 Clone the Repository
 
 ```
-git clone https://github.com/uannabi/python-textblob-twitter-sentiment.git
+git clone git@github.com:uannabi/Python-dash-tw-sentiment.git
 ```
 Install Required Libraries
 
@@ -36,7 +36,7 @@ python run twsteam.py
 
 Once the application is running, it will start fetching tweets in real time based on specified filters or keywords. Each tweet will be analyzed, and its sentiment (positive or negative) will be outputted.
 
-Contributing
+## Contributing
 Your contributions to enhance this sentiment analysis tool are highly appreciated. Feel free to fork this repository and submit your pull requests.
 
 
